@@ -1,5 +1,4 @@
-# *Spring-and-Angular-full-stack-practice*
-Spring Boot + Angular 電子商務課程練習
+# Spring Boot + Angular 電子商務課程練習
 
 `frontend:Angular`  
 
